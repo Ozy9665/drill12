@@ -4,7 +4,7 @@ import game_world
 
 from grass import Grass
 from boy import Boy
-from Back_grass import BackGrass
+from grass import BackGrass
 
 boy = None
 grass = None
